@@ -1,0 +1,8 @@
+org/example/infrastructure/UploadService.class
+org/example/domain/Response.class
+org/example/RequestParser.class
+org/example/domain/Person.class
+org/example/controller/LambdaRequestStreamHandler.class
+org/example/domain/Reject.class
+org/example/domain/Success.class
+org/example/domain/Database.class

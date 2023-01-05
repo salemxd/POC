@@ -1,0 +1,8 @@
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/RequestParser.java
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/domain/Response.java
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/domain/Reject.java
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/domain/Success.java
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/domain/Person.java
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/infrastructure/UploadService.java
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/controller/LambdaRequestStreamHandler.java
+/Users/salemlojic/Ikano_poc/src/main/java/org/example/domain/Database.java
