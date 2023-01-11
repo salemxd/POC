@@ -1,6 +1,6 @@
 org/example/infrastructure/UploadService.class
+org/example/domain/RequestParser.class
 org/example/domain/Response.class
-org/example/RequestParser.class
 org/example/domain/Person.class
 org/example/controller/LambdaRequestStreamHandler.class
 org/example/domain/Reject.class

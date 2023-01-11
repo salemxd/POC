@@ -11,6 +11,7 @@ public class Database {
 
     public void UploadPerson(Person person){
         dynamoDb.getTable(DYNAMODB_TABLE_NAME)
-                .putItem(new PutItemSpec().withItem(new Item().withNumber("Id", person.getId()).withString("name", person.getName())));
+                .putItem(new PutItemSpec().withItem(new Item().withNumber("id", person.getId()).withString("name", person.getName())));
     }
 }
+//.withString("name", person.getName()

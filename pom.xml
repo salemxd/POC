@@ -43,7 +43,7 @@
                   <manifestEntries>
                     <Main-Class>org.example.App</Main-Class>
                   </manifestEntries>
-                </transformer>
+                    </transformer>
               </transformers>
             </configuration>
           </execution>
